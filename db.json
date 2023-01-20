@@ -1,0 +1,15 @@
+{
+    "persons":[
+        {
+            "id":1,
+            "fname":"Sarah",
+            "lname": "Jackson"
+        },
+        {
+            "id":2,
+            "fname":"John",
+            "lname":"Stewart"
+        }
+
+    ]
+}
